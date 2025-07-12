@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Intern Management Web App",
+    "imageSrc": "projects/coding.jpg",
+    "description": "A responsive web application to manage interns. Features include real-time form validation, full CRUD operations, and a connected backend database.",
+    "skills": ["HTML", "CSS", "JavaScript", "jQuery", "PHP", "SQL"],
+    "source": "https://github.com/asmatrabelsii/Gestion-Stagiares"
+  },
+  {
+    "title": "E-Learning Platform",
+    "imageSrc": "projects/coding.jpg",
+    "description": "Developed a structured online learning platform with user registration, course access, profile management, assessments, progress tracking, and certifications.",
+    "skills": ["Symfony", "Bootstrap", "SQL"],
+    "source": "https://github.com/asmatrabelsii/Eduplanet"
+  },
+  {
+    "title": "SafeHaven",
+    "imageSrc": "projects/coding.jpg",
+    "description": "SafeHaven is a supportive online space for people facing bullying. It allows users to find resources, report bullying incidents, and share their stories.",
+    "skills": ["HTML", "CSS"],
+    "source": "https://github.com/asmatrabelsii/SafeHaven"
+  },
+  {
+    "title": "Conference Event Planner",
+    "imageSrc": "projects/coding.jpg",
+    "description": "A web app built with React to help organize and plan conferences, including schedule management and speaker tracking.",
+    "skills": ["React", "JavaScript", "HTML", "CSS"],
+    "source": "https://github.com/asmatrabelsii/conference_event_planner"
+  },
+  {
+    "title": "E-Plant Shopping Site",
+    "imageSrc": "projects/coding.jpg",
+    "description": "A React-based e-commerce platform for selling medicinal herbal plants, featuring product listings, a shopping cart, and order handling.",
+    "skills": ["React", "JavaScript", "HTML", "CSS"],
+    "source": "https://github.com/asmatrabelsii/e-plantShopping"
+  }
+]

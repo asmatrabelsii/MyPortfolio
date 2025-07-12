@@ -1,0 +1,48 @@
+[
+  {
+    "role": "Research Project",
+    "organisation": "Higher School of Digital Economy, Manouba",
+    "startDate": "2024-02",
+    "endDate": "2025-07",
+    "experiences": [
+      "Designed Prince-Stream: a streaming algorithm for association rule bases.",
+      "Implemented incremental maintenance for generic rules extraction."
+    ],
+    "imageSrc": "history/esen.png"
+  },
+  {
+    "role": "Intern",
+    "organisation": "Hedyl Systems, Ben Arous",
+    "startDate": "2023-02",
+    "endDate": "2023-05",
+    "experiences": [
+      "Developed an e-learning platform with Symfony and Bootstrap.",
+      "Enabled user registration, course access, and profile management.",
+      "Integrated assessments, progress tracking, and certifications."
+    ],
+    "imageSrc": "history/hedylSystems.png"
+  },
+  {
+    "role": "Intern",
+    "organisation": "Advanced Consulting Zaghouan",
+    "startDate": "2022-01",
+    "endDate": "2022-02",
+    "experiences": [
+      "Built a responsive intern management web app.",
+      "Implemented real-time form validation and full CRUD operations.",
+      "Connected frontend to backend database."
+    ],
+    "imageSrc": "history/advancedConsulting.png"
+  },
+  {
+    "role": "Intern",
+    "organisation": "LA POSTE El Fahs, Zaghouan",
+    "startDate": "2021-06",
+    "endDate": "2021-07",
+    "experiences": [
+      "Observed postal operations and services.",
+      "Learned about IT systems supporting logistics and communication."
+    ],
+    "imageSrc": "history/laposte.png"
+  }
+]
